@@ -1,2 +1,2 @@
-# Repo12
-The basic python files.
+####   Python Reporsitory
+Python Basics
